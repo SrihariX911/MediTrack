@@ -1,4 +1,4 @@
-# MediTrack — Clinic & Appointment Management System
+# Final MediTrack — Clinic & Appointment Management System
 
 A modular, object-oriented Clinic & Appointment Management System implemented in **Core Java 17**.
 
